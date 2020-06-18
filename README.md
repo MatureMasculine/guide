@@ -8,8 +8,8 @@ Our learning collective is self-organizing, rigorously goal-driven, and personal
 
 As a collective each member takes on two objectives:
 
-* **Objective 1:** To mature the masculine within myself so that I may serve life. 
-* **Objective 2:** To coach and challenge other members into their mature masculine so that they may serve life. 
+* **Objective 1:** To mature the masculine essence within myself so that I may serve life. 
+* **Objective 2:** To coach and challenge other members into their mature masculine essence so that they may serve life. 
 
 Our Culture OS provides a framework by which we --as members of the learning collective-- can achieve our objectives. It supports us in co-creating a culture that draws out the best in us. It defines the components of our shared culture and the processes by which members of the learning collective can shape it.
 
@@ -22,4 +22,5 @@ Everyone is responsible for embodying and improving this culture.
 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+Aknowledgements: Mens Group Field Guide. 
 

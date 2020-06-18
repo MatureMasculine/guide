@@ -24,3 +24,10 @@ You know you’re falling into Persecutor if you find yourself:
 4. Insisting that the other person accept your challenge
 5. Don't feel like you're on the other person's team
 
+
+---
+
+Part of your feedback may include challenging the man who shared to take on an action. This can include doing something differently, or being/behaving in a different way. 
+● The masculine thrives on being in action, so the idea of ‘challenges’ totally resonates with being a man in the world. 
+● This is a powerful tool however it can also easily be collapsed with an expectation of how another man ‘should’ be or what he ‘should’ do; this is a judgement and thus needs to be carefully considered before being expressed. 
+
