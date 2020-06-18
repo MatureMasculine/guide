@@ -1,5 +1,7 @@
 # Selection
 
+Males Only. 
+
 Finding the right men Above all, men who want to be part of a Men’s Group are men who are committed to the above intentions of the Men’s Group. They also need to be committed to the methods and structure of the group. They are men who are committed to their own growth and development, and committed to the growth and development of other men. 
 
 Life situations The diversity of men’s background should be encouraged: socioeconomic, cultural differences and sexual orientation should not be barriers to entry or inclusion. Our group has had single men, married men, divorced men, gay men, men with children and men with no children. A commitment to the intention, methods, and structure of the group is what is imperative. 

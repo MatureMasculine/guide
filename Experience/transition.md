@@ -20,4 +20,14 @@ How to make it a win-win
 ● Any group that wishes a man to leave must have reached consensus on the decision (see our definition on ‘consensus’). A representative from the group (usually the man who invited him or the ‘leader’ of the group) must call the man and let him know the thoughts of the group. Ideally, it should not come as a complete surprise to the man; he should have received feedback previously from the group regarding the issues around why he is now being asked to leave. 
 
 
+How to conduct the final meeting 
+● The man leaving should be given the opportunity to attend a final session with the group so that he can say his farewells and anything else that needs to be shared. 
+● Should he wish, the man leaving can attend the whole session, or he can be the first to share, receive final feedback, and then leave. 
+Follow up 
+● The man who leaves Men’s Group should receive a follow-up email after his final session thanking them for participating in the group and wishing them the best for their future. If they have been the ones who asked to leave, let them know they are always welcome back. 
+● Any man who leaves should receive a follow-up email or call from the group 3 months after they have left. Just a check-in. 
+
+
+
+
 
