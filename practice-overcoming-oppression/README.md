@@ -1,2 +1,0 @@
-# Practice Overcoming Oppression
-
