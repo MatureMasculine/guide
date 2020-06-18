@@ -1,3 +1,7 @@
+---
+description: We're glad you made it
+---
+
 # Welcome
 
 > What we are doing here is so important, we better not take it too seriously. ~ Suzuki Roshi
