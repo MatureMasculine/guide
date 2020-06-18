@@ -4,6 +4,13 @@
 * [Glossary](glossary.md)
 
 ## Experience
+* [Dynamic tensions](Experience/Dynamic Tensions/README.md)
+    * [Belonging](Experience/Dynamic Tensions/belonging.md)
+    * [Efficacy](Experience/Dynamic Tensions/efficacy.md)
+    * [Flow](Experience/Dynamic Tensions/flow.md)
+    * [Growth](Experience/Dynamic Tensions/growth.md)
+    * [Trust](Experience/Dynamic Tensions/trust.md)
+
 * [Practices](Experience/Practices/README.md)
     * [Clearing](Experience/Practices/Clearing.md)
     * [Drama triangle](Experience/Practices/Drama_Triangle.md)
@@ -37,15 +44,6 @@
 ## Cos overview
 * [Introduction](cos_overview/README.md)
 * [Player support group](cos_overview/player_support_group.md)
-* [Practices](cos_overview/practices.md)
-
-## Dynamic tensions
-* [Introduction](dynamic_tensions/README.md)
-* [Belonging](dynamic_tensions/belonging.md)
-* [Efficacy](dynamic_tensions/efficacy.md)
-* [Flow](dynamic_tensions/flow.md)
-* [Growth](dynamic_tensions/growth.md)
-* [Trust](dynamic_tensions/trust.md)
 
 ## Images
 
