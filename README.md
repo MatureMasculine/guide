@@ -1,8 +1,8 @@
-# Mature Masculine Operating System
+# Welcome
 
 > What we are doing here is so important, we better not take it too seriously. ~ Suzuki Roshi
 
-## Welcome
+## Intro
 
 Our learning collective is self-organizing, rigorously goal-driven, and personally rewarding. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have.
 

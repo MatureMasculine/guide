@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome](README.md)
 * [COS Overview](cos_overview/README.md)
   * [Player Support Group](cos_overview/player_support_group.md)
   * [Practices](cos_overview/practices.md)
