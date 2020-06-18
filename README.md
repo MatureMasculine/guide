@@ -1,19 +1,17 @@
-# Introduction
+# Mature Masculine Operating System
 
-> “An idea that is not dangerous is unworthy of being called an idea at all.” ~ Oscar Wilde
+> What we are doing here is so important, we better not take it too seriously. ~ Suzuki Roshi
 
-## Learners Guild Culture Operating System
+## Welcome
 
-Welcome!
-
-Our learning environment is self-organizing, rigorously goal-driven, and personally and professionally rewarding. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have.
+Our learning collective is self-organizing, rigorously goal-driven, and personally rewarding. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have.
 
 As a collective each member takes on two objectives:
 
-* **Objective 1:** Create and sustain a dignified livelihood as a software developer.
-* **Objective 2:** Cultivate a learning collective that supports me and others in achieving Objective 1.
+* **Objective 1:** To mature the masculine within myself so that I may serve life. 
+* **Objective 2:** To coach and challenge other members into their mature masculine so that they may serve life. 
 
-Our Culture OS provides a framework by which we --as members of the learning collective-- can achieve the second objective. It supports us in co-creating a culture that draws out the best in us. It defines the components of our shared culture and the processes by which members of the learning collective can shape it.
+Our Culture OS provides a framework by which we --as members of the learning collective-- can achieve our objectives. It supports us in co-creating a culture that draws out the best in us. It defines the components of our shared culture and the processes by which members of the learning collective can shape it.
 
 Culture happens. It's not something we can control, but it's something we can intentionally impact. Culture is invisible and impacts us more than anything else. Our Cultural Operating System assumes two things:
 
