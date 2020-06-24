@@ -1,9 +1,14 @@
 # Purpose
-
-Mature Masculine Serving Life
+To serve life by guiding our masculine essense to maturity. 
 
 ## Mission
 Supporting the masculine through ongoing support groups. Challenge and coaching the masculine into maturity. 
+Providing a framework for our sons' success in life.
+
+As Kings, we are here to witness and bless our sons. 
+As Magicians, we are here to coach and guide our sons. 
+As Lovers, we are here to love and hold our sons. 
+As Warriors, we are here to challenge and test our sons. 
 
 
 Men’s Group is for men who want to be challenged and want to challenge each other in being the greatest men they can be. 
@@ -13,3 +18,5 @@ Men’s Group is for men who want to be challenged and want to challenge each ot
 ● Men in Men’s Group respect and honour each other as whole and complete men who make mistakes and stuff up. Men need support in error-correcting without shutting down, hurting ourselves or hurting others. 
 ● While there is a serious intent to Men’s Group, their is also a commitment to have men be more light-hearted and playful in their worlds. 
 ● A context for social interaction and deep, authentic friendship may also arise from these meetings. 
+
+

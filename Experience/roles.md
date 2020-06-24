@@ -8,6 +8,21 @@ Participates in a king counsel circle.
 Facilitates meeting
 Changes agreements (make sure to write them down somewhere and share them)
 
+## Magician
+
+Opens and closes the space in prayer.
+Calls in spirit. 
+Knows the structure of our meetings inside out, and is the authority of what happens, when and how.
+
+## Warrior
+
+Protects the physical space from people coming in or leaving. 
+Calls out bullshit. 
+
+## Lover
+
+Makes sure things don't get too serious. 
+Holds compassion, tenderness, open heartedness, and play. 
 
 ## Counsel
 
