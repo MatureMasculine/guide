@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Father's Group is a dedicated time where fathers can challenge, support and witness each other as they move towards a shared purpose: To become Fiercely Loving Fathers, and lead their families from their deepest available truth. It is a community of deliberate practice dedicating to the maturation of the masuline for the purpose of serving life.
+Father's Group is a dedicated time where fathers can challenge, support and witness each other as they move towards a shared purpose: To become Fiercely Loving Fathers, and lead their families from their deepest available truth. It is a community of deliberate practice, dedicated to the maturation of the masuline for the purpose of serving life.
 
 ## Ceremony
 
