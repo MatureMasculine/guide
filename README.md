@@ -41,16 +41,4 @@ An intact culture of men.
 * **Objective 2:** To coach and challenge others into their mature masculine essence so that they may serve life. 
 
 
-This guide provides a framework by which we --as members of the learning collective-- can achieve our objectives. It supports us in co-creating a culture that draws out the best in us. It defines the components of our shared culture and the processes by which members of the learning collective can shape it.
-
-Culture happens. It's not something we can control, but it's something we can intentionally impact. Culture is invisible and impacts us more than anything else. Our Cultural Operating System assumes two things:
-
-* First: Culture is critical to succeeding.
-* Second: We can be intentional about co-creating it, and deliberate in evolving it together.
-
-Everyone is responsible for embodying and improving this culture.
-
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
-Aknowledgements: Mens Group Field Guide. 
-
+This guide provides a framework by which we --as members of this community of practice-- can achieve our objectives. It supports us in co-creating a culture that draws out the best in us. It defines the components of our shared culture and the processes by which members of the group can shape it.

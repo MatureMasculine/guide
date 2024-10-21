@@ -2,7 +2,7 @@
 
 ## Agency &lt;--&gt; Structure
 
-The Efficacy tension optimizes the energies between structure and agency. We believe that a self-directed learning environment is defined by its commitment to maximizing potential within the context of clearly expressed expectations and parameters. We are able to experience freedom - the freedom to experiment, the freedom to fail, the freedom to dream - when we can creatively and spontaneously engage with the structures that hold us in an effective and efficient way.
+The Efficacy tension optimizes the energies between structure and agency. We believe that a self-directed community of practice is defined by its commitment to maximizing potential within the context of clearly expressed expectations and parameters. We are able to experience freedom - the freedom to experiment, the freedom to fail, the freedom to dream - when we can creatively and spontaneously engage with the structures that hold us in an effective and efficient way.
 
 ## Agency
 

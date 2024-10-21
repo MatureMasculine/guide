@@ -1,28 +1,24 @@
-# Player Support Group
+# Father's Group
 
 ## Purpose
 
-Player Support Group is a dedicated time where players can discuss how to play the game better, deepen in the foundational COS practices, and gain support from and connect with each other.
-
-## Houses
-
-The purpose of a house is to create a small community of practice that spans multiple cohorts and meets regularly to support each other and deliberately co-create a thriving learning culture.
+Father's Group is a dedicated time where fathers can challenge, support and witness each other as they move towards a shared purpose: To become Fiercely Loving Fathers, and lead their families from their deepest available truth. It is a community of deliberate practice dedicating to the maturation of the masuline for the purpose of serving life.
 
 ## Ceremony
 
-A Player Support Group is a form of ceremony. We’ve all participated in some kind of ceremony before. Graduations. Weddings. Birthday celebrations. Cultural or religious ceremonies. Ceremonies are time bound, typically facilitated by someone, or multiple people, and often happen either at regularly anticipated times \(like ritual ceremonies\), or at designated times with a clear beginning middle and end. A ceremony might take all day \(like orientation or graduation\), or might have a more discrete duration \(like a Player Support Group meeting\).
+A Father's Group is a form of ceremony. We’ve all participated in some kind of ceremony before. Graduations. Weddings. Birthday celebrations. Cultural or religious ceremonies. Ceremonies are time bound, typically facilitated by someone, or multiple people, and often happen either at regularly anticipated times \(like ritual ceremonies\), or at designated times with a clear beginning middle and end. A ceremony might take all day \(like orientation or graduation\), or might have a more discrete duration \(like a Father's Group meeting\).
 
 Ceremonies are often powerful, and need to be entered deliberately and freely. It's important that everyone at a ceremony is in choice about the degree to which they participate.
 
-While everyone is committed to attending Player Support Group, they have a right to pass on any activity they choose not to participate in.
+While everyone is committed to attending Father's Group, they have a right to pass on any activity they choose not to participate in.
 
-## Climate survey
-
-Every three weeks or so, house members will take a Climate Survey to see how well they are succeeding at co-creating a thriving learning culture. The survey is meant to give them feedback on how well they are holding the five [Dynamic Tensions](https://github.com/MatureMasculine/guide/tree/4d5a0462fa490f4d15010be70b252a06d0ea395e/COS_Overview/Dynamic_Tensions/README.md).
-
-Members of a house, take on the collective challenge of moving the results of the COS survey up.
 
 ## Structure
+
+- Seal the container and read the purpose
+- Checkin round with feedback (or joanna spiral?)
+- Reading or video
+- Challenge updates / accountability round
 
 **Step 1: \*\***[Check-in](../practice-vulnerability/check_in.md)\*\*
 
@@ -36,7 +32,7 @@ They are called tensions because that is how they literally manifest in our bodi
 
 What is asked of everyone around tensions is to honor your intuition – if you literally “feel a tension” then that is to be respected and listened to. Naming and processing your tension is what drives Learners Guild forward. They are an integral and necessary part of how we collectively co-create the Guild, they are not a problem.
 
-Each tension is named, logged, and processed in turn. Only the "tension holder" decides when their tension is resolved.
+Each tension is named and processed in turn. Only the "tension holder" decides when their tension is resolved.
 
 It's generally good practice to hold on to your tension tightly, but be flexible about how it can be resolved.
 
@@ -56,36 +52,10 @@ A small sample of tools you can use to resolve your Tensions
 
 ## Facilitator notes
 
-### Home Group Framing
-
-* This can't be top down. At Enron there were great words on the wall: Integrity, Honesty, Service. Every company has words on the wall. This isn't trivial.
-* We do it here using three steps.
-  * Step 1: We agree on what the goal is. On what a great environment\/culture looks like.
-  * Step 2: We try different things to deliberately move towards our goal.
-  * Step 3: We measure how we're doing, and we try something else.
-
-Home groups are a place for us to decide on what the next experiment is, and to discuss how the previous experiments are going.
-
-### Misc Reminders
-
 * If the answer exists in the group, let them answer it first. Let participants reinforce and protect the culture. Don't jump in if you don't have to.
 * Introduce the "Process Timeout" and encourage anybody to use it to ask clarifying questions about the process. If this is an early group, set the expectation that there will be dozens of Process Timeouts since you won't be describing the process but jumping right in.
 * Remind everyone about the agency & safety values. They have a choice about wether or not participate. They need to speak up if they don't feel safe. Ceremonies are by definition non-coercive. They must be entered willingly.
 * Remind people they can pass in any go-around. If they pass, the facilitator will get to them at the end and give them one more opportunity to participate which they can take or leave.
 * Note that start time and end time of the ceremony.
 * Remind people to turn screens off and to protect the space from their "todos".
-* People might need their screens during the **build proposals** step. Remind them to stay focussed and close their screens the moment they feel they have all their proposals in.
 * Offer to let anyone facilitate the process at the beginning. Hopefully, one day, someone will take you up on it!
-* asking people who are in the red to check in about it and make a plan / get support
-
-### More notes
-
-* Non purpose of houses = process feedback about the game. The game designers will hold weekly sessions for feedback.
-* Be more transparent about why vulnerability is a good thing.
-* This is a learning support group / players get support learning how to play this game better
-* Framing for last 50m: what supports people in this group? what's needed here?
-* what's my incentive to support other people if i'm here for myself?
-  * check ins help people care about each other
-  * creating a container where truth and love can unfold
-  * learners are 'attached' to each other via vulnerability, they care about each other because they know each other deeper
-

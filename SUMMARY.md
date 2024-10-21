@@ -1,15 +1,11 @@
 # Summary
 * [Introduction](README.md)
-* [Contributing](contributing.md)
-* [Glossary](glossary.md)
 
-## Experience
+## Group Overview
+* [Father's Group](father_group_overview/father_group.md)
 * [Agreements](Experience/agreements.md)
-* [Content](Experience/content.md)
-* [Logistics](Experience/logistics.md)
+* [Logistics for In-person Groups](Experience/logistics.md)
 * [Roles](Experience/roles.md)
-* [Selection](Experience/selection.md)
-* [Shared experience](Experience/shared_experience.md)
 * [Transition](Experience/transition.md)
 
 * [Dynamic tensions](Experience/Dynamic Tensions/README.md)
@@ -33,7 +29,6 @@
     * [Feedback](Experience/Practices/feedback.md)
     * [Non judgement](Experience/Practices/non_judgement.md)
     * [Non triangulation](Experience/Practices/non_triangulation.md)
-    * [Overcoming oppression](Experience/Practices/overcoming_oppression.md)
     * [Radical honesty](Experience/Practices/radical_honesty.md)
     * [Radical responsibility](Experience/Practices/radical_responsibility.md)
     * [Requests](Experience/Practices/requests.md)
@@ -41,25 +36,5 @@
 * [Rituals](Experience/Rituals/README.md)
     * [Check in](Experience/Rituals/check_in.md)
     * [Check out](Experience/Rituals/check_out.md)
-
-
-## Identity
-* [Brand](Identity/brand.md)
-* [Purpose](Identity/purpose.md)
-* [Success](Identity/success.md)
-* [Values](Identity/values.md)
-
-## Structure
-* [Channel and platform](Structure/channel_and_platform.md)
-* [Data management](Structure/data_management.md)
-* [Financing](Structure/financing.md)
-* [Governance](Structure/governance.md)
-* [Organization](Structure/organization.md)
-
-## Cos overview
-* [Introduction](cos_overview/README.md)
-* [Player support group](cos_overview/player_support_group.md)
-
-## Images
 
 

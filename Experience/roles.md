@@ -2,6 +2,9 @@
 
 ## King
 
+- King is in Charge. 
+- Each group is its own sovereign unit. 
+- King leads two or three groups, and then decides who to hand off the lead to at the end of the second or third group. 
 Who ever has been doing m-groups for the longest. 
 Can give role to anybody he chooses. 
 Participates in a king counsel circle. 

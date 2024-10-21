@@ -28,7 +28,7 @@ Response to scoring
 Passing 
 ● If a man feels he has nothing to add or contribute to the man who has shared then it is best that he ‘pass’ rather than speak for the sake of speaking. 
 ● Passing on feedback is not to be done lightly nor regularly. The man who passes on feedback needs to be clear for himself why he has opted to pass. 
-● In the same vein, to say something like “I agree with what everyone else has said” is a waste of time and words. Remember that Men’s Group is a vigorous enquiry. 
+● In the same vein, to say something like “I agree with what everyone else has said” is a waste of time and words. Remember that Father's Group is a vigorous enquiry. 
 
 
 Response to feedback 
