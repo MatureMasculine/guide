@@ -8,12 +8,12 @@
 * [Roles](Experience/roles.md)
 * [Transition](Experience/transition.md)
 
-* [Dynamic tensions](Experience/Dynamic Tensions/README.md)
-    * [Belonging](Experience/Dynamic Tensions/belonging.md)
-    * [Efficacy](Experience/Dynamic Tensions/efficacy.md)
-    * [Flow](Experience/Dynamic Tensions/flow.md)
-    * [Growth](Experience/Dynamic Tensions/growth.md)
-    * [Trust](Experience/Dynamic Tensions/trust.md)
+* [Dynmaic Tensions](Experience/Dynamic%20Tensions/README.md)
+    * [Belonging](Experience/Dynamic%20Tensions/belonging.md)
+    * [Efficacy](Experience/Dynamic%20Tensions/efficacy.md)
+    * [Flow](Experience/Dynamic%20Tensions/flow.md)
+    * [Growth](Experience/Dynamic%20Tensions/growth.md)
+    * [Trust](Experience/Dynamic%20Tensions/trust.md)
 
 * [Practices](Experience/Practices/README.md)
     * [Clearing](Experience/Practices/Clearing.md)
